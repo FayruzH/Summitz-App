@@ -1,12 +1,40 @@
-# React + Vite
+# Summits – Front-End Open Trip Pendakian Gunung
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Repository ini berisi **bagian Front-End** dari proyek kolaboratif bernama *Summits*, yaitu platform web untuk membantu pengguna mengeksplorasi dan memesan paket open trip pendakian gunung di Indonesia.
 
-Currently, two official plugins are available:
+Pada project ini, saya berkontribusi sebagai **UI/UX Designer dan Front-End Developer**, fokus pada pembuatan tampilan antarmuka yang intuitif serta responsif menggunakan React dan Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧩 Peran Saya
+- Mendesain user flow dan tampilan UI high-fidelity di Figma  
+- Mengimplementasikan tampilan Front-End menggunakan React + Tailwind CSS  
+- Mengembangkan komponen UI reusable agar konsisten  
+- Kolaborasi development menggunakan Git & GitHub (branching, pull request)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Catatan: *Repository ini hanya mencakup sisi Front-End. Integrasi backend & database ditangani oleh anggota tim lain.*
+
+---
+
+## 🛠 Tech Stack
+- **React**
+- **Tailwind CSS**
+- **Vite**
+- **Figma (UI/UX)**
+- **Git & GitHub**
+
+---
+
+## ✨ Fitur Utama (Front-End)
+- UI eksplorasi paket open trip
+- UI detail trip & alur booking
+- Sistem komponen UI reusable
+- Responsif untuk mobile–desktop
+
+---
+
+## 🚀 Cara Menjalankan (Front-End)
+
+### Install dependencies
+```bash
+npm install
